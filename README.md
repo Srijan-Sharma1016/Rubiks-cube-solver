@@ -1,6 +1,12 @@
 # Rubik’s Cube Solver (C++)
 
-![C++](https://img.shields.io/badge/C%2B%2B-17-blue) ![CMake](https://img.shields.io/badge/CMake-3.10%2B-blue) ![Algorithms](https://img.shields.io/badge/Algorithms-implemented-orange) ![Pathfinding](https://img.shields.io/badge/Pathfinding-IDA%2A-%238E44AD) ![Data Structures](https://img.shields.io/badge/Data%20Structures-Graphs-lightgrey) ![Hashing](https://img.shields.io/badge/Hashing-Custom-green)
+![C++](https://img.shields.io/badge/C++-17-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![CMake](https://img.shields.io/badge/CMake-3.10+-1A1A1A?style=for-the-badge&logo=cmake&logoColor=064F8C)
+![Algorithms](https://img.shields.io/badge/Algorithms-Graph%20Search-1A1A1A?style=for-the-badge&logo=graph&logoColor=purple)
+![Pathfinding](https://img.shields.io/badge/IDA*-Heuristic%20Search-1A1A1A?style=for-the-badge&logo=target&logoColor=red)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Trees%20%26%20Graphs-1A1A1A?style=for-the-badge&logo=databricks&logoColor=green)
+![Hashing](https://img.shields.io/badge/Hashing-Custom%20Hash-1A1A1A?style=for-the-badge&logo=unlock&logoColor=yellow)
+\
 
 ## 🚀 Project Overview
 
