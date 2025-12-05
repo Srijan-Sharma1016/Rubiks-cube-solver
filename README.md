@@ -1,5 +1,7 @@
 # Rubik’s Cube Solver (C++)
 
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue) ![CMake](https://img.shields.io/badge/CMake-3.10%2B-blue) ![Algorithms](https://img.shields.io/badge/Algorithms-implemented-orange) ![Pathfinding](https://img.shields.io/badge/Pathfinding-IDA%2A-%238E44AD) ![Data Structures](https://img.shields.io/badge/Data%20Structures-Graphs-lightgrey) ![Hashing](https://img.shields.io/badge/Hashing-Custom-green)
+
 ## 🚀 Project Overview
 
 This project is a high-performance Rubik’s Cube solver implemented in modern C++. It demonstrates the use of advanced search algorithms, optimized heuristics, and clean object-oriented design principles.
