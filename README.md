@@ -1,12 +1,11 @@
 # Rubik’s Cube Solver (C++)
 
-![C++](https://img.shields.io/badge/C++-17-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![CMake](https://img.shields.io/badge/CMake-3.10+-1A1A1A?style=for-the-badge&logo=cmake&logoColor=064F8C)
-![Algorithms](https://img.shields.io/badge/Algorithms-Graph%20Search-1A1A1A?style=for-the-badge&logo=graph&logoColor=purple)
-![Pathfinding](https://img.shields.io/badge/IDA*-Heuristic%20Search-1A1A1A?style=for-the-badge&logo=target&logoColor=red)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Trees%20%26%20Graphs-1A1A1A?style=for-the-badge&logo=databricks&logoColor=green)
-![Hashing](https://img.shields.io/badge/Hashing-Custom%20Hash-1A1A1A?style=for-the-badge&logo=unlock&logoColor=yellow)
-\
+![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-Build%20System-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-Advanced%20Search-8E44AD?style=for-the-badge)
+![Pathfinding](https://img.shields.io/badge/Pathfinding-IDA*-FF5733?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Graphs-2ECC71?style=for-the-badge)
+![Hashing](https://img.shields.io/badge/Hashing-Custom%20Optimized-F1C40F?style=for-the-badge)
 
 ## 🚀 Project Overview
 
